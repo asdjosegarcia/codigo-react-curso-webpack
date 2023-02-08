@@ -1,0 +1,6 @@
+{
+    "presets": [ /* los presets que instalamos desde la terminal junto con los loaders*/
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+}
