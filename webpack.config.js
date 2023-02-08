@@ -61,7 +61,7 @@ module.exports = {//el module.export es un objeto especial de nodejs incluido en
         }),
         new CleanWebpackPlugin()
     ],
-    optimizacion:{
+    optimization:{
         minimize: true,
         minimizer:[
             new CssMinimizerPlugin(),
